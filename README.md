@@ -23,7 +23,6 @@ Bienvenido a mi Currículum Vitae Virtual (CVV). Aquí encontrarás información
 
 
 ## 📫 Contacto
-- Correo: urielsebastianhh@gmail.com
 - LinkedIn: (https://www.linkedin.com/in/uriel-sebasti%C3%A1n-herrera-hermosillo-a7438737b/)
 - GitHub: (https://github.com/urielsebastianhh-ai)
 
